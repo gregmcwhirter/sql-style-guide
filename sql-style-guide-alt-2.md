@@ -1,5 +1,6 @@
 Database Naming Conventions
 http://wiki.coldbox.org/wiki/DatabaseNamingConventions.cfmA naming convention is important when working with databases in order to provide a clear structure and format; especially in team environments. By using these conventions the database can be understood by anyone applying these conventions; thus increasing maintainability. These are not rules but guidelines that can be adapted to any working environment.
+
 General Conventions
 All names should be in camelcase with the first letter in lower case.
 
